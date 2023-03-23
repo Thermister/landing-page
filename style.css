@@ -1,4 +1,8 @@
-
+@media screen and (min-width: 480px) {
+    {
+        width: 200px; float: :left;
+    }
+}
 *{
     margin-left: 0.2rem;
 }
@@ -70,4 +74,3 @@
 button:hover{
     background-color: rgb(65, 14, 113);
 }
-
