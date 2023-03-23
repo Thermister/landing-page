@@ -1,0 +1,73 @@
+
+*{
+    margin-left: 0.2rem;
+}
+.header{
+    background-color: palevioletred;
+    padding: auto;
+    height: 4.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+
+}
+.img{
+    height: 70px;
+}
+.footer{
+    background-color: palevioletred;
+    height: 4rem;
+    text-align: center;
+    display: block;
+    margin-bottom: 0.2rem;
+    display: footer;
+    width: 100%;
+    line-height: 3.5rem;
+    justify-content: center;
+    background-size: 100% 100%;
+}
+.input{
+    color: palevioletred;
+    height: 4rem;
+    background-color: white;
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
+    width: 18pc;
+    background-origin: auto;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+
+.button{
+    bottom: unset;
+    background-color: rgb(21, 4, 37);
+    height: 3rem;
+    color: white;
+    border: none;
+    width: 18pc;
+    background-origin: auto; 
+    vertical-align: text-bottom;
+    align-content: end;
+    display: inline;
+    border-radius: 8px;
+    
+}
+.p{
+    color: black;
+    background-color: white;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: bold;
+}
+.h1{
+   background-color: white;
+   font-size: 35px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+
+}
+button:hover{
+    background-color: rgb(65, 14, 113);
+}
+
