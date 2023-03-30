@@ -5,5 +5,5 @@ Women Safety ia a major issue that has been the most significant topic to date. 
 -This is the figma design for the app. 
  https://www.figma.com/file/ZoXtQxYV68gljJNhJwNXz9/Women-Safety-App?node-id=0%3A1&t=hMKZPbW3MSjAGW2Y-0
 
-- This is the repo for the Women Safety App
-
+-This is the repo for the Women Safety App
+https://github.com/Thermister/women-safety-app
